@@ -46,3 +46,6 @@
   - セクション19-6まで完了
 - 2024/04/02
   - 【2023年最新】React(v18)完全入門ガイド｜Hooks、Next.js、Redux、TypeScript 完了
+  - TypeScriptで学ぶReact 1~3 完了
+- 2024/04/03
+  - TypeScriptで学ぶReact 4~5 完了
