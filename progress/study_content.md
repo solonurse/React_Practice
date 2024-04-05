@@ -49,3 +49,7 @@
   - TypeScriptで学ぶReact 1~3 完了
 - 2024/04/03
   - TypeScriptで学ぶReact 4~5 完了
+- 2024/04/04
+  - TypeScriptで学ぶReact 6~7 完了
+- 2024/04/05
+  - TypeScriptで学ぶReact 8~11 完了
