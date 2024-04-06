@@ -53,3 +53,5 @@
   - TypeScriptで学ぶReact 6~7 完了
 - 2024/04/05
   - TypeScriptで学ぶReact 8~11 完了
+- 2024/04/06
+  - TypeScriptで学ぶReact 12 途中
